@@ -1,0 +1,1 @@
+This is an implementation of the linked list data structure in Ruby. Requires Ruby to be installed, and requires Minitest for use of the testing suite.
