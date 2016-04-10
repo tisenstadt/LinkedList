@@ -7,7 +7,7 @@ end
 
 class LinkedList
 	#Initialized to include a value for the head. 
-	attr_accessor :head, :new_list
+	attr_accessor :head
 	def initialize(head)
 		@head = head
 	end
